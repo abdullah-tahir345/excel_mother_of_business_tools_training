@@ -1,8 +1,8 @@
 <h3>Data Analysis Toolbox</h3>
 <p>Welcome to the Data Analysis Toolbox repository! This repository is a collection of resources and tools to enhance your data analysis skills, particularly focusing on Excel, Power Query, Power Pivot, and data visualization. Whether you're a beginner looking to learn the basics or an experienced analyst seeking advanced techniques, you'll find valuable information here.</p>
 
+<p>Table of Contents</p>
 <ol>
-<li>Table of Contents</li>
 <li>Excel Formatting</li>
 <li>Pivot Tables</li>
 <li>Lookup Functions</li>
